@@ -38,7 +38,7 @@ export default {
   },
   methods: {
     search() {
-      // Optional: Make an API call to search
+      // 
     }
   }
 }
